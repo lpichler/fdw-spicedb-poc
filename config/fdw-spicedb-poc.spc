@@ -1,0 +1,3 @@
+connection "fdwspicedbpoc" {
+  plugin = "fdwspicedbpoc"
+}
